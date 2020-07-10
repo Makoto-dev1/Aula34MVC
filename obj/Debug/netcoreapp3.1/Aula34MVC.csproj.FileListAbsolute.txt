@@ -1,0 +1,13 @@
+I:\Users\Makoto-dev\Desktop\Senai\Aula34MVC\bin\Debug\netcoreapp3.1\Aula34MVC.exe
+I:\Users\Makoto-dev\Desktop\Senai\Aula34MVC\bin\Debug\netcoreapp3.1\Aula34MVC.deps.json
+I:\Users\Makoto-dev\Desktop\Senai\Aula34MVC\bin\Debug\netcoreapp3.1\Aula34MVC.runtimeconfig.json
+I:\Users\Makoto-dev\Desktop\Senai\Aula34MVC\bin\Debug\netcoreapp3.1\Aula34MVC.runtimeconfig.dev.json
+I:\Users\Makoto-dev\Desktop\Senai\Aula34MVC\bin\Debug\netcoreapp3.1\Aula34MVC.dll
+I:\Users\Makoto-dev\Desktop\Senai\Aula34MVC\bin\Debug\netcoreapp3.1\Aula34MVC.pdb
+I:\Users\Makoto-dev\Desktop\Senai\Aula34MVC\obj\Debug\netcoreapp3.1\Aula34MVC.csprojAssemblyReference.cache
+I:\Users\Makoto-dev\Desktop\Senai\Aula34MVC\obj\Debug\netcoreapp3.1\Aula34MVC.AssemblyInfoInputs.cache
+I:\Users\Makoto-dev\Desktop\Senai\Aula34MVC\obj\Debug\netcoreapp3.1\Aula34MVC.AssemblyInfo.cs
+I:\Users\Makoto-dev\Desktop\Senai\Aula34MVC\obj\Debug\netcoreapp3.1\Aula34MVC.csproj.CoreCompileInputs.cache
+I:\Users\Makoto-dev\Desktop\Senai\Aula34MVC\obj\Debug\netcoreapp3.1\Aula34MVC.dll
+I:\Users\Makoto-dev\Desktop\Senai\Aula34MVC\obj\Debug\netcoreapp3.1\Aula34MVC.pdb
+I:\Users\Makoto-dev\Desktop\Senai\Aula34MVC\obj\Debug\netcoreapp3.1\Aula34MVC.genruntimeconfig.cache
